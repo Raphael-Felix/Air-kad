@@ -1,0 +1,32 @@
+{
+    "projects": {
+        "7D1C1178-58B9-3E28-43B4-1B3C7F0E6B84": {
+            "config-debug": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "config-release": {
+                "additionalDependencies": [],
+                "additionalIncludeDirectories": [],
+                "additionalLibraryDirectories": [],
+                "preprocessorDefinitions": []
+            },
+            "dependencies": [],
+            "dependents": [],
+            "name": "Pipeline3D",
+            "property-lib": false,
+            "property-pch": true,
+            "property-vcpkg": false,
+            "property-window": true
+        }
+    },
+    "projects_name_to_guid": {
+        "Pipeline3D": "7D1C1178-58B9-3E28-43B4-1B3C7F0E6B84"
+    },
+    "solution_guid": "37AB59E7-5A9B-5C75-5C76-57741263470D",
+    "solution_name": "Pipeline3D",
+    "startup_project": "",
+    "version": "2.0"
+}
